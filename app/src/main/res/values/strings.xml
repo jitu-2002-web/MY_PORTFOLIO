@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Portfolio Application</string>
+    <string name="MT">
+        <br> <b>West Bengal board of secondary\n</b></br>
+        <br> <b>education->\n</b></br>
+        <br> Passout year: 2018\n</br>
+        <br> Marks of percentage : 46%\n</br>
+    </string>
+    <string name="HS">
+        <br> <b>West Bengal council of higher secondary\n</b></br>
+        <br> <b>education->\n</b></br>
+        <br> Passout year: 2020\n</br>
+        <br> Marks of percentage : 64.6%\n</br>
+    </string>
+    <string name="BCA">
+        <br> <b>Bachelor of Computer Applications(BCA)->\n</b></br>
+        <br> Passout year: 2023\n</br>
+        <br> Marks of percentage : 80.23%\n</br>
+    </string>
+    <string name="PR">
+        <br>ʙᴀᴄʜᴇʟᴏʀ ᴏꜰ ᴄᴏᴍᴘᴜᴛᴇʀ ᴀᴘʟʟɪᴄᴀᴛɪᴏɴ(ʙᴄᴀ) ꜱᴛᴜᴅᴇɴᴛ.\n</br>
+    </string>
+    <string name="PR1">
+        <br>ɪ ᴄᴏɴꜱɪᴅᴇʀ ᴍʏ ꜱᴇʟꜰ ᴀ ʀᴇꜱᴘᴏɴᴄɪʙʟᴇ ᴀɴᴅ ᴏʀᴅᴇʀʟɴ ᴘᴇʀꜱᴏɴ.\n</br>
+    </string>
+    <string name="PR2">
+        <br>ɪ ᴀᴍ ʟᴏᴏᴋɪɴɢ ꜰᴏʀᴡᴀʀᴅ ꜰᴏʀ ᴍʏ ꜰɪʀꜱᴛ ᴍᴏʀᴋ ᴇxᴘʀɪᴇɴᴄᴇꜱ.</br>
+    </string>
+    <string name="PHONE">
+        <br>* Phone number:- 8167371002</br>
+    </string>
+    <string name="EMAIL">
+        <br>* Email:- nejitabrato@gmail.com</br>
+    </string>
+    <string name="ADD">
+        <br>* Address:- Kharida RajagramNear Water Tank,Kharagpur Town,Kharagpur(M),Medinipur WestBengal,721301</br>
+    </string>
+</resources>
